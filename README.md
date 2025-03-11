@@ -41,6 +41,10 @@ Hi there 👋
   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvISKDwZO9pID1YEHGSOGzSNu61BAw8LtFSQ&s" alt="gsap" width="40" height="40"/> 
   </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="threejs" width="40" height="40"/> 
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-gattu&show_icons=true&locale=en&layout=compact" alt="shashank-gattu" /></p>
